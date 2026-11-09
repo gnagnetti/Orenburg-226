@@ -1,0 +1,6 @@
+{
+  "name": "Luisa Spagnoli — Sell-out & Training Hub FW 26/27",
+  "description": "Piattaforma retail unificata per Luisa Spagnoli FW 26/27: analisi sell-out e performance negozio con schede tecniche e di training prodotto per ciascun modello.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
